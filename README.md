@@ -2,21 +2,6 @@
 ```markdown
 # UltraTodoPro - Modern Task Manager
 
-![Application Screenshot](./screenshot.png)
-
-## Overview
-UltraTodoPro is a productivity-focused desktop application built with Python and Tkinter that combines elegant design with robust task management capabilities. Featuring a modern dark interface, it helps users organize their workflow efficiently while maintaining data integrity through Design-by-Contract principles.
-
-## ✨ Key Features
-
-### 🗂 Task Management
-- **CRUD Operations**: Full create, read, update, delete functionality
-- **Status Tracking**: Toggle between Pending/Completed states
-- **Data Structure**: Efficient in-memory storage using tuples
-  ```python
-  (id, title, description, status)
-  ```
-
 ### 🛡 Quality Assurance
 - **Design-by-Contract**: Runtime validation of pre/post-conditions
 - **Error Handling**: User-friendly dialogs with detailed logs
@@ -94,15 +79,5 @@ MIT License - See [LICENSE](./LICENSE) for details.
 3. W3C WAI - Web Content Accessibility Guidelines 2.1
 ```
 
-Key improvements made:
-1. Added emojis for better visual scanning
-2. Improved code block formatting for the data structure
-3. Enhanced the class diagram with:
-   - Directional flow
-   - Type hints
-   - More descriptive relationship labels
-4. Better organized prerequisites/installation/usage sections
-5. More detailed quality assurance table
-6. Consistent file path formatting (./prefix)
-7. Added subtle highlights to important terms
+
 
