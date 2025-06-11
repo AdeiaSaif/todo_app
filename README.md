@@ -49,17 +49,7 @@ classDiagram
 - Python 3.8+
 - Tkinter (usually included with Python)
 
-### Installation
-```bash
-git clone https://github.com/yourusername/UltraTodoPro.git
-cd UltraTodoPro
-pip install -r requirements.txt
-```
 
-### Usage
-```bash
-python UltraTodoPro.py
-```
 
 ## 🔍 Quality Assurance
 
