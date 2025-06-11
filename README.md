@@ -2,6 +2,8 @@
 ```markdown
 # UltraTodoPro - Modern Task Manager
 
+  ```
+
 ### 🛡 Quality Assurance
 - **Design-by-Contract**: Runtime validation of pre/post-conditions
 - **Error Handling**: User-friendly dialogs with detailed logs
@@ -79,5 +81,6 @@ MIT License - See [LICENSE](./LICENSE) for details.
 3. W3C WAI - Web Content Accessibility Guidelines 2.1
 ```
 
+7. Added subtle highlights to important terms
 
-
+The architecture diagram now better reflects the actual implementation details from your technical documentation while maintaining readability. The overall structure flows more naturally from overview to technical details to practical usage.
