@@ -18,10 +18,7 @@ UltraTodoPro is a modern, dark-themed desktop application built with Python and 
    ```
    git clone https://github.com/AdeiaSaif/UltraTodoPro.git
    ```
-3. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 Run the application with:
